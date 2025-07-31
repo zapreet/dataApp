@@ -1,3 +1,3 @@
 jwa file provided
 
-can be integrated into cloud instance directly
+can be integrated into joget cloud instance directly
